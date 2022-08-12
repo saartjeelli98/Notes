@@ -121,7 +121,7 @@
 // console.log(dvdPlayer.depth);
 // dvdPlayer.printDVDName();
 
-//javascript has built in objects
+//javascript has built in objects, can look them up to use them.
 
 //equality vs identity:
 
